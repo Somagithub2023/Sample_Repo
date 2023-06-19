@@ -5,3 +5,4 @@ Changes made locally.
 Change2 made on remote git.
 Change2 made locally.
 Change3 made on remote.
+Change4 made on remote to pull.
