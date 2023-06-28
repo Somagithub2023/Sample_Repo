@@ -1,1 +1,6 @@
 this is development phase of file1.
+changes made in master.
+changes made locally.
+changes made remotely.
+changes made to merge.
+
